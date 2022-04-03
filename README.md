@@ -8,4 +8,4 @@ when excuted press anykey on keyboard to start
 after started you can control your car by using "W, A, S, D"
 
 # warning
-this is a demo game new maps will be added soon
+this is a demo game, new maps will be added soon
