@@ -7,5 +7,8 @@ when downloaded the zip file named "racing game.zip" double click the "racing_ga
 when excuted press anykey on keyboard to start
 after started you can control your car by using "W, A, S, D"
 
+# how to quit the game
+right click on the game's icon at the task bar then click "close window"
+
 # warning
 this is a demo game, new maps will be added soon
